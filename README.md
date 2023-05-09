@@ -12,13 +12,3 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
-
-Set up Git CLI and github
-
-```
-git config --global user.name "Siddhant Mehta"
-```
-
-```
-git config --global user.email "siddhant.infnite@gmail.com"
-```
